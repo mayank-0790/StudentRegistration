@@ -1,0 +1,12 @@
+C:\Users\mayan\OneDrive\Desktop\StudentRegistrationSystem\bin\StudentRegistrationSystem.dll
+C:\Users\mayan\OneDrive\Desktop\StudentRegistrationSystem\bin\StudentRegistrationSystem.pdb
+C:\Users\mayan\OneDrive\Desktop\StudentRegistrationSystem\bin\mscorlib.dll
+C:\Users\mayan\OneDrive\Desktop\StudentRegistrationSystem\bin\MySql.Data.dll
+C:\Users\mayan\OneDrive\Desktop\StudentRegistrationSystem\bin\normidna.nlp
+C:\Users\mayan\OneDrive\Desktop\StudentRegistrationSystem\bin\normnfc.nlp
+C:\Users\mayan\OneDrive\Desktop\StudentRegistrationSystem\bin\normnfd.nlp
+C:\Users\mayan\OneDrive\Desktop\StudentRegistrationSystem\bin\normnfkc.nlp
+C:\Users\mayan\OneDrive\Desktop\StudentRegistrationSystem\bin\normnfkd.nlp
+C:\Users\mayan\OneDrive\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csprojResolveAssemblyReference.cache
+C:\Users\mayan\OneDrive\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.dll
+C:\Users\mayan\OneDrive\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.pdb
